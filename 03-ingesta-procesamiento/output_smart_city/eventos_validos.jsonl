@@ -1,0 +1,48 @@
+{"timestamp": "2026-04-26T20:49:20.152815", "tipo_fuente": "sensor_ambiental", "sensor_id": "AIR_4", "zona": "oriente", "pm25": 31.78, "temperatura": 3.72, "humedad": 62.42}
+{"timestamp": "2026-04-26T20:49:20.455705", "tipo_fuente": "sensor_ambiental", "sensor_id": "AIR_9", "zona": "oriente", "pm25": 25.27, "temperatura": 16.68, "humedad": 46.37}
+{"timestamp": "2026-04-26T20:49:20.556466", "tipo_fuente": "sensor_ambiental", "sensor_id": "AIR_8", "zona": "centro", "pm25": 35.67, "temperatura": 33.18, "humedad": 77.58}
+{"timestamp": "2026-04-26T20:49:20.758415", "tipo_fuente": "transporte_publico", "unidad_id": "BUS_2", "ruta": "R6", "lat": 19.38119, "lon": -99.228295, "velocidad": 71.87, "estado": "detenido"}
+{"timestamp": "2026-04-26T20:49:20.859795", "tipo_fuente": "camara_simulada", "camara_id": "CAM_1", "zona": "centro", "evento": "aglomeracion", "nivel_confianza": 0.45}
+{"timestamp": "2026-04-26T20:49:20.960517", "tipo_fuente": "sensor_ambiental", "sensor_id": "AIR_10", "zona": "poniente", "pm25": 152.66, "temperatura": 11.63, "humedad": 99.27}
+{"timestamp": "2026-04-26T20:49:21.062129", "tipo_fuente": "sensor_ambiental", "sensor_id": "AIR_19", "zona": "oriente", "pm25": 203.65, "temperatura": 50.24, "humedad": 23.89}
+{"timestamp": "2026-04-26T20:49:21.163731", "tipo_fuente": "transporte_publico", "unidad_id": "BUS_10", "ruta": "R12", "lat": 19.3019, "lon": -99.132906, "velocidad": 97.81, "estado": "fuera_servicio"}
+{"timestamp": "2026-04-26T20:49:21.264333", "tipo_fuente": "transporte_publico", "unidad_id": "BUS_12", "ruta": "R2", "lat": 19.342442, "lon": -99.207626, "velocidad": 9.42, "estado": "fuera_servicio"}
+{"timestamp": "2026-04-26T20:49:21.365015", "tipo_fuente": "camara_simulada", "camara_id": "CAM_1", "zona": "norte", "evento": "flujo_normal", "nivel_confianza": 0.42}
+{"timestamp": "2026-04-26T20:49:21.465627", "tipo_fuente": "transporte_publico", "unidad_id": "BUS_27", "ruta": "R11", "lat": 19.368569, "lon": -99.116603, "velocidad": 95.47, "estado": "fuera_servicio"}
+{"timestamp": "2026-04-26T20:49:21.566556", "tipo_fuente": "sensor_ambiental", "sensor_id": "AIR_19", "zona": "sur", "pm25": 7.87, "temperatura": 44.47, "humedad": 66.36}
+{"timestamp": "2026-04-26T20:49:21.869951", "tipo_fuente": "transporte_publico", "unidad_id": "BUS_8", "ruta": "R6", "lat": 19.300332, "lon": -99.20898, "velocidad": 34.64, "estado": "detenido"}
+{"timestamp": "2026-04-26T20:49:21.970996", "tipo_fuente": "camara_simulada", "camara_id": "CAM_1", "zona": "centro", "evento": "aglomeracion", "nivel_confianza": 0.25}
+{"timestamp": "2026-04-26T20:49:22.071938", "tipo_fuente": "camara_simulada", "camara_id": "CAM_8", "zona": "centro", "evento": "intrusion", "nivel_confianza": 0.46}
+{"timestamp": "2026-04-26T20:49:22.274178", "tipo_fuente": "sensor_ambiental", "sensor_id": "AIR_7", "zona": "poniente", "pm25": 159.71, "temperatura": 45.15, "humedad": 56.43}
+{"timestamp": "2026-04-26T20:49:22.376331", "tipo_fuente": "sensor_ambiental", "sensor_id": "AIR_14", "zona": "norte", "pm25": 83.43, "temperatura": 36.65, "humedad": 94.23}
+{"timestamp": "2026-04-26T20:49:22.477291", "tipo_fuente": "transporte_publico", "unidad_id": "BUS_7", "ruta": "R12", "lat": 19.399697, "lon": -99.183916, "velocidad": 15.91, "estado": "fuera_servicio"}
+{"timestamp": "2026-04-26T20:49:22.679016", "tipo_fuente": "sensor_ambiental", "sensor_id": "AIR_7", "zona": "norte", "pm25": 57.29, "temperatura": 40.74, "humedad": 19.97}
+{"timestamp": "2026-04-26T20:49:22.779906", "tipo_fuente": "transporte_publico", "unidad_id": "BUS_10", "ruta": "R3", "lat": 19.440949, "lon": -99.174001, "velocidad": 19.86, "estado": "fuera_servicio"}
+{"timestamp": "2026-04-26T20:49:22.880811", "tipo_fuente": "transporte_publico", "unidad_id": "BUS_18", "ruta": "R7", "lat": 19.40515, "lon": -99.168184, "velocidad": 8.84, "estado": "detenido"}
+{"timestamp": "2026-04-26T20:49:22.981473", "tipo_fuente": "transporte_publico", "unidad_id": "BUS_22", "ruta": "R1", "lat": 19.442386, "lon": -99.050206, "velocidad": 5.39, "estado": "fuera_servicio"}
+{"timestamp": "2026-04-26T20:49:23.082977", "tipo_fuente": "camara_simulada", "camara_id": "CAM_2", "zona": "oriente", "evento": "aglomeracion", "nivel_confianza": 0.93}
+{"timestamp": "2026-04-26T20:49:23.184165", "tipo_fuente": "camara_simulada", "camara_id": "CAM_12", "zona": "norte", "evento": "flujo_normal", "nivel_confianza": 0.48}
+{"timestamp": "2026-04-26T20:49:23.284775", "tipo_fuente": "transporte_publico", "unidad_id": "BUS_15", "ruta": "R4", "lat": 19.364297, "lon": -99.085695, "velocidad": 44.0, "estado": "en_ruta"}
+{"timestamp": "2026-04-26T20:49:23.386974", "tipo_fuente": "sensor_ambiental", "sensor_id": "AIR_18", "zona": "oriente", "pm25": 110.38, "temperatura": 44.52, "humedad": 78.88}
+{"timestamp": "2026-04-26T20:49:23.488038", "tipo_fuente": "sensor_ambiental", "sensor_id": "AIR_1", "zona": "centro", "pm25": 131.82, "temperatura": 21.22, "humedad": 53.0}
+{"timestamp": "2026-04-26T20:49:23.588761", "tipo_fuente": "sensor_ambiental", "sensor_id": "AIR_4", "zona": "oriente", "pm25": 140.21, "temperatura": 54.81, "humedad": 87.19}
+{"timestamp": "2026-04-26T20:49:23.689966", "tipo_fuente": "camara_simulada", "camara_id": "CAM_3", "zona": "norte", "evento": "flujo_normal", "nivel_confianza": 0.02}
+{"timestamp": "2026-04-26T20:49:23.891809", "tipo_fuente": "camara_simulada", "camara_id": "CAM_15", "zona": "centro", "evento": "accidente", "nivel_confianza": 0.26}
+{"timestamp": "2026-04-26T20:49:23.992355", "tipo_fuente": "sensor_ambiental", "sensor_id": "AIR_7", "zona": "sur", "pm25": 7.7, "temperatura": 50.56, "humedad": 84.78}
+{"timestamp": "2026-04-26T20:49:24.093535", "tipo_fuente": "transporte_publico", "unidad_id": "BUS_26", "ruta": "R10", "lat": 19.368285, "lon": -99.194591, "velocidad": 81.56, "estado": "fuera_servicio"}
+{"timestamp": "2026-04-26T20:49:24.295439", "tipo_fuente": "sensor_ambiental", "sensor_id": "AIR_8", "zona": "oriente", "pm25": 166.66, "temperatura": 30.71, "humedad": 92.9}
+{"timestamp": "2026-04-26T20:49:24.396396", "tipo_fuente": "camara_simulada", "camara_id": "CAM_4", "zona": "oriente", "evento": "intrusion", "nivel_confianza": 0.24}
+{"timestamp": "2026-04-26T20:49:24.497086", "tipo_fuente": "transporte_publico", "unidad_id": "BUS_24", "ruta": "R4", "lat": 19.341113, "lon": -99.144801, "velocidad": 105.43, "estado": "fuera_servicio"}
+{"timestamp": "2026-04-26T20:49:24.598172", "tipo_fuente": "sensor_ambiental", "sensor_id": "AIR_9", "zona": "poniente", "pm25": 84.58, "temperatura": 21.48, "humedad": 84.95}
+{"timestamp": "2026-04-26T20:49:24.698771", "tipo_fuente": "sensor_ambiental", "sensor_id": "AIR_9", "zona": "sur", "pm25": 132.85, "temperatura": 34.28, "humedad": 50.47}
+{"timestamp": "2026-04-26T20:49:24.799828", "tipo_fuente": "camara_simulada", "camara_id": "CAM_13", "zona": "norte", "evento": "aglomeracion", "nivel_confianza": 0.93}
+{"timestamp": "2026-04-26T20:49:24.904174", "tipo_fuente": "sensor_ambiental", "sensor_id": "AIR_6", "zona": "norte", "pm25": 16.28, "temperatura": 28.0, "humedad": 89.31}
+{"timestamp": "2026-04-26T20:49:25.106136", "tipo_fuente": "camara_simulada", "camara_id": "CAM_8", "zona": "poniente", "evento": "accidente", "nivel_confianza": 0.84}
+{"timestamp": "2026-04-26T20:49:25.207582", "tipo_fuente": "transporte_publico", "unidad_id": "BUS_17", "ruta": "R9", "lat": 19.321238, "lon": -99.069059, "velocidad": 55.4, "estado": "fuera_servicio"}
+{"timestamp": "2026-04-26T20:49:25.308302", "tipo_fuente": "sensor_ambiental", "sensor_id": "AIR_2", "zona": "oriente", "pm25": 169.6, "temperatura": 25.11, "humedad": 21.2}
+{"timestamp": "2026-04-26T20:49:25.409689", "tipo_fuente": "transporte_publico", "unidad_id": "BUS_30", "ruta": "R11", "lat": 19.499513, "lon": -99.153708, "velocidad": 81.9, "estado": "detenido"}
+{"timestamp": "2026-04-26T20:49:25.510554", "tipo_fuente": "transporte_publico", "unidad_id": "BUS_27", "ruta": "R6", "lat": 19.490992, "lon": -99.095935, "velocidad": 93.22, "estado": "fuera_servicio"}
+{"timestamp": "2026-04-26T20:49:25.611880", "tipo_fuente": "transporte_publico", "unidad_id": "BUS_9", "ruta": "R10", "lat": 19.375225, "lon": -99.116581, "velocidad": 13.44, "estado": "fuera_servicio"}
+{"timestamp": "2026-04-26T20:49:25.712794", "tipo_fuente": "transporte_publico", "unidad_id": "BUS_29", "ruta": "R5", "lat": 19.31949, "lon": -99.145001, "velocidad": 90.17, "estado": "en_ruta"}
+{"timestamp": "2026-04-26T20:49:25.813815", "tipo_fuente": "sensor_ambiental", "sensor_id": "AIR_11", "zona": "poniente", "pm25": 200.14, "temperatura": 42.55, "humedad": 93.49}
+{"timestamp": "2026-04-26T20:49:25.915059", "tipo_fuente": "sensor_ambiental", "sensor_id": "AIR_3", "zona": "sur", "pm25": 191.64, "temperatura": 39.38, "humedad": 72.2}
