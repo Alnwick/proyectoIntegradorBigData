@@ -1,0 +1,39 @@
+{
+  "total_eventos_procesados": 60,
+  "eventos_validos": 48,
+  "eventos_rechazados": 12,
+  "anomalias_detectadas": 13,
+  "porcentaje_validos": 80.0,
+  "porcentaje_rechazados": 20.0,
+  "tasa_anomalias_sobre_validos": 27.08,
+  "eventos_por_fuente": {
+    "sensor_ambiental": 20,
+    "transporte_publico": 17,
+    "camara_simulada": 11
+  },
+  "anomalias_por_tipo": {
+    "contaminacion_alta": 7,
+    "aglomeracion_detectada": 2,
+    "temperatura_extrema": 2,
+    "velocidad_excesiva": 1,
+    "evento_critico_camara": 1
+  },
+  "anomalias_por_fuente": {
+    "sensor_ambiental": 9,
+    "camara_simulada": 3,
+    "transporte_publico": 1
+  },
+  "eventos_por_zona": {
+    "oriente": 9,
+    "centro": 6,
+    "poniente": 5,
+    "norte": 7,
+    "sur": 4
+  },
+  "alertas_por_zona": {
+    "poniente": 4,
+    "oriente": 5,
+    "sur": 2,
+    "norte": 1
+  }
+}
