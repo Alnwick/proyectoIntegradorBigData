@@ -34,24 +34,29 @@ La solución está basada en una arquitectura lógica de Big Data con los siguie
 - **Almacenamiento histórico:** Data Lake para datos crudos, procesados e históricos.
 - **Consumo analítico:** dashboards para alertas, KPIs y análisis urbano.
 
-## Estructura sugerida del repositorio
+## Estructura del repositorio
 ```text
 .
-├── README.md
-├── docs/
-│   ├── fase-1-evaluacion.docx
-│   ├── arquitectura-smart-city.png
-│   └── almacenamiento-visualizacion.md
-├── src/
+├── 01-evaluacion
+│   └── 01-evaluacion.pdf
+├── 02-arquitectura
+│   ├── diagrama_contenedores.jpg
+│   ├── diagrama_contexto.jpg
+│   └── texto_tecnico.pdf
+├── 03-ingesta-procesamiento
+│   ├── output_smart_city
+│   │   ├── anomalias.jsonl
+│   │   ├── eventos_rechazados.jsonl
+│   │   └── eventos_validos.jsonl
+│   ├── captura_procesamiento.png
 │   ├── streaming_smart_city.py
-│   └── resumen_dashboard_smart_city.py
-├── data/
-│   ├── eventos_validos.jsonl
-│   ├── anomalias.jsonl
-│   ├── eventos_rechazados.jsonl
-│   └── resumen_dashboard.json
-└── assets/
-    └── diagramas/
+│   └── texto_tecnico.pdf
+├── 04-almacenamiento-visualizacion
+│   ├── captura_ejecucion.png
+│   ├── dashboard_smart_city.py
+│   ├── resumen_dashboard.json
+│   └── texto_tecnico.pdf
+└── README.md
 ```
 
 ## Implementación realizada
@@ -89,7 +94,7 @@ python src/streaming_smart_city.py
 
 ### Ejecutar el resumen para dashboard
 ```bash
-python src/resumen_dashboard_smart_city.py
+python src/dashboard_smart_city.py
 ```
 
 ## Relación con Big Data
